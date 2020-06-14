@@ -11,9 +11,9 @@ All you can draw are curves, by increasing or decreasing the coordinates of the 
 
 Here are two examples of pre-recorded figures :
 
-![Capture1](img\Capture1.PNG)
+![Capture1](img/Capture1.PNG)
 
-![Capture1](img\Capture2.PNG)
+![Capture1](img/Capture2.PNG)
 
 ## How to use
 
