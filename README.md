@@ -9,6 +9,8 @@ Look it on GitHub:
 
 [![lining-draw](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=lining-draw)](https://github.com/Relex12/lining-draw)
 
+[Read in French.](https://relex12.github.io/fr/Lining-draw)
+
 
 ---
 
